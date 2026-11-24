@@ -10,7 +10,7 @@ The project demonstrates how raw operational data can be cleaned, validated, ana
 
 ## 📊 Preview
 
-![Nexora Operations MIS Dashbaord](../screenshots/MIS_Dashboard.png)
+![Nexora Operations MIS Dashbaord](./screenshots/MIS_Dashboard.png)
 
 ## 🏢 Business Scenario
 
