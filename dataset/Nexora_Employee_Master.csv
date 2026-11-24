@@ -1,0 +1,41 @@
+﻿Employee_ID,Employee_Name,Department,Team,Shift,Location
+EMP001,Rahul Sharma,Data Processing,Data Entry,Morning,Hyderabad
+EMP002,Priya Reddy,Data Processing,Data Entry,Afternoon,Chennai
+EMP003,Arjun Kumar,Data Processing,Data Entry,Night,Bengaluru
+EMP004,Sneha Rao,Data Processing,Data Entry,Morning,Hyderabad
+EMP005,Kiran Patel,Data Processing,Data Entry,Afternoon,Chennai
+EMP006,Ananya Das,Data Processing,Data Validation,Night,Bengaluru
+EMP007,Vikram Singh,Data Processing,Data Validation,Morning,Hyderabad
+EMP008,Divya Nair,Data Processing,Data Validation,Afternoon,Chennai
+EMP009,Rohit Mehta,Data Processing,Data Validation,Night,Bengaluru
+EMP010,Meera Iyer,Data Processing,Data Validation,Morning,Hyderabad
+EMP011,Sanjay Reddy,Customer Operations,Customer Support,Afternoon,Chennai
+EMP012,Kavya Sharma,Customer Operations,Customer Support,Night,Bengaluru
+EMP013,Aditya Rao,Customer Operations,Customer Support,Morning,Hyderabad
+EMP014,Pooja Nair,Customer Operations,Customer Support,Afternoon,Chennai
+EMP015,Varun Kumar,Customer Operations,Customer Support,Night,Bengaluru
+EMP016,Neha Patel,Customer Operations,Case Resolution,Morning,Hyderabad
+EMP017,Manoj Das,Customer Operations,Case Resolution,Afternoon,Chennai
+EMP018,Shruti Iyer,Customer Operations,Case Resolution,Night,Bengaluru
+EMP019,Ajay Singh,Customer Operations,Case Resolution,Morning,Hyderabad
+EMP020,Riya Mehta,Customer Operations,Case Resolution,Afternoon,Chennai
+EMP021,Akash Rao,Quality Assurance,Quality Review,Night,Bengaluru
+EMP022,Nisha Reddy,Quality Assurance,Quality Review,Morning,Hyderabad
+EMP023,Karthik Kumar,Quality Assurance,Quality Review,Afternoon,Chennai
+EMP024,Swathi Nair,Quality Assurance,Quality Review,Night,Bengaluru
+EMP025,Deepak Sharma,Quality Assurance,Quality Review,Morning,Hyderabad
+EMP026,Aishwarya Patel,Quality Assurance,Audit,Afternoon,Chennai
+EMP027,Harish Das,Quality Assurance,Audit,Night,Bengaluru
+EMP028,Sonia Iyer,Quality Assurance,Audit,Morning,Hyderabad
+EMP029,Rajesh Mehta,Quality Assurance,Audit,Afternoon,Chennai
+EMP030,Madhavi Singh,Quality Assurance,Audit,Night,Bengaluru
+EMP031,Abhishek Rao,Back Office,Documentation,Morning,Hyderabad
+EMP032,Keerthi Kumar,Back Office,Documentation,Afternoon,Chennai
+EMP033,Naveen Reddy,Back Office,Documentation,Night,Bengaluru
+EMP034,Lakshmi Sharma,Back Office,Documentation,Morning,Hyderabad
+EMP035,Suresh Nair,Back Office,Documentation,Afternoon,Chennai
+EMP036,Tejas Patel,Back Office,Operations Support,Night,Bengaluru
+EMP037,Monika Das,Back Office,Operations Support,Morning,Hyderabad
+EMP038,Ganesh Iyer,Back Office,Operations Support,Afternoon,Chennai
+EMP039,Preethi Mehta,Back Office,Operations Support,Night,Bengaluru
+EMP040,Surya Singh,Back Office,Operations Support,Morning,Hyderabad
